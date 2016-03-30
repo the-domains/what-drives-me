@@ -1,0 +1,28 @@
+name: What drives me
+favicon: null
+layout_spectrum: 0.7602097836788744
+typography_spectrum: 0.6338802790269256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8015212644822896
+  lightness: 0.4658954394981265
+  saturation: 0.0612030120100826
+  rhythmicContrast: 0.61832459946163
+purpose: []
